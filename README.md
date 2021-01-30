@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [NoteMaster](https://github.com/LiamRiddell/NoteMaster)
 
-- 🌱 I’m currently learning **Machine Learning, DirectX, and improving.**
+- 🌱 I’m currently learning **Machine Learning, DirectX, and more.**
 
 - 🤝 I’m looking for help with [NoteMaster](https://github.com/LiamRiddell/NoteMaster)
 
