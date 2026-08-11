@@ -1,12 +1,3 @@
-### Liam Riddell
-
-Full-stack developer based in the United Kingdom. Most of what is here is
-small, focused tools rather than one large product: a note-taking plugin, the
-expression engine underneath it, and a handful of ports and utilities built
-because something needed to exist and did not yet.
-
-More at [liamriddell.co.uk](https://www.liamriddell.co.uk).
-
 ### Building now
 
 **[solve-engine](https://github.com/LiamRiddell/solve-engine)**
